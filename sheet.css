@@ -161,7 +161,7 @@ body {
     border-radius: 10px 0 0 10px;
     color: #ffff;
     background-color: #1e2939;
-    width: 370px;
+    min-width: 370px;
     padding-top: 40px;
     padding-bottom: 40px;
 }
